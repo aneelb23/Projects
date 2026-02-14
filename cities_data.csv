@@ -1,0 +1,11 @@
+city,state,population,median_income,area_sq_mi,cost_of_living_index,unemployment_rate
+Austin,Texas,978908,75000,326,108,3.2
+Miami,Florida,449514,52000,56,118,4.1
+San Francisco,California,808437,119000,47,220,3.8
+New York,New York,8336817,67000,303,187,4.5
+Chicago,Illinois,2746388,62000,227,102,4.2
+Seattle,Washington,753675,105000,84,150,3.5
+Denver,Colorado,727211,78000,155,112,3.1
+Boston,Massachusetts,675647,79000,90,153,3.4
+Phoenix,Arizona,1680992,62000,517,95,3.9
+Atlanta,Georgia,506811,62000,137,98,3.7
